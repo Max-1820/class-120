@@ -29,3 +29,14 @@
    box-shadow: 5px 5px 5px grey;
    margin-top: 160px;
  }
+copy_right_footer{
+  position: fixed;
+  bottom:0;
+  color:white;
+  width:100%;
+  background-color: gray;
+  line-height:3;
+  text-align:center;
+}
+    
+    
